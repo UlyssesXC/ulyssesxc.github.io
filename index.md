@@ -1,4 +1,6 @@
-
+---
+ title: About Alembic
+---
 # Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
