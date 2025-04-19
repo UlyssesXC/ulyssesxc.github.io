@@ -1,7 +1,6 @@
 ---
- title: About Alembic
+ title: Hi, I’m Xiangchao(Chase) Chen
 ---
-# Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
 - Clear and elegant design that can be used out of the box or as solid starting point
