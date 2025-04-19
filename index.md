@@ -2,50 +2,66 @@
  title: Hi, I’m Xiangchao(Chase) Chen
 ---
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+I'm currently a Master of Engineering student in ECE at Western University.
+I have a strong interest in Embodied Ontelligence, particularly in its research foundations and real-world applications.
+I'm actively seeking opportunities for **research assistant positions** or **PhD programs** in this exciting field.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
-## Examples
+{% include button.html text="Github" icon="github" link="https://github.com/UlyssesXC" color="#B0C4DE" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} {% include button.html text="Resume 👨🏻‍💻" link="https://github.com/" color="#5F9EA0" %} {% include button.html text="Email" icon="email" link="xche683@uwo.ca" color="#00BFFF" %}
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+## EDUCATION
+Western University
+> M.eng in Electrical and Computer Engineering
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+Hangzhou City University (Formerly: Zhejiang University City College)
+> Single Chip Microcomputer Principles & Applications (96)
+> C Programming (89) Mobile Tele-communication Technology (91) SKILLS
+> Electric Circuit Principles (91)
+> C++ Programming and Practice (90)
 
-## Installation
+## PROFESSIONAL EXPERIENCE
+### Weixun Nairui Intelligent Technology (Hangzhou) Co., Ltd.
+Team leader / Full Stack Engineer, Technology Department Aug 2023 – Aug 2024
 
-### Quick setup
+ Led a cross-functional team in developing an industrial inspection robot, achieving a manpower reduction
+of 60-80% in three TTI downstream factories within 2 months of product launch. Responsibilities included
+supply chain communication, system development.
+ Independently led the majority of the robot's system development, including: PLC, power circuitry,
+optical imaging design, Linux PyQT interface & master control, database management, and Fanuc
+robotic arm motion control.
+ Collaborated with a team to develop an image recognition algorithm for the robot by establishing dataset
+standards, collecting and organizing datasets, and implementing YOLO v8 for visual detection.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+### Nokia Shanghai Bell Co., Ltd.
+Embedded Software Engineer, NSB MN RAN R&D L1 Department Aug 2021 - Feb 2022
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+ Implemented and tested 5G/NR algorithms such as FFT and MIMO on ASIP prototypes. Focused on
+evaluating ASIP performance and performance enhancement of algorithm functionality.
+ Participated in the migration and optimization of code logic from x86 to ARM architecture for 5G/NR
+RAN Layer 1. This includes leveraging NEON instruction sets for performance optimization, enhancing
+memory access and data caching efficiency, and adapting low-level hardware interfaces.
+ Conducted 5G/NR RAN Layer 1 functionality testing, refinement, and development of product code logic
+within x86-based simulation environment.
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+### Tuya Inc. (NYSE: TUYA)
+Embedded Software Engineer Intern, Software Development Department Dec 2019 - Jul 2020
+
+ Participated in the development of IoT-SDK for IoT products utilizing protocols like WIFI, Bluetooth,
+and Zigbee. Main responsibilities included assisting in SDK development and deployment.
+ Engaged in client projects using IoT chips, primarily focusing on various home appliances and industrial
+IoT applications. Organized more than 100 pages of engineering documents during this period.
+
+### First and Third Prize in TI Cup National Undergraduate Electronic Design Contest
+Group Leader / Embedded Developer Jul 2019
+
+ Participated in the TI Cup College Student Electronic Design Competition in both 2018 and 2019, won
+the first prize with full marks in 2018, and won the third prize in 2019.
+ First Prize in 2018: Led a team to design a current signal detection device within a three-day deadline for
+the competition, developed a detection circuit and 8-bit FFT algorithm on STC8 chip to accurately
+measure the fundamental frequency and harmonics of current signals
+ Third Prize in 2019: Led a team to design a circuit load and fault detection device within a three-day
+deadline for the competition, based on digital bridge circuit principles for load type identification and
+component value measurement.
 
 ### As a Jekyll theme
 
