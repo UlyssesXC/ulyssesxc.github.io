@@ -3,21 +3,24 @@
 ---
 
 I'm currently a Master of Engineering student in ECE at Western University.
+
 I have a strong interest in Embodied Ontelligence, particularly in its research foundations and real-world applications.
+
 I'm actively seeking opportunities for **research assistant positions** or **PhD programs** in this exciting field.
 
 
 {% include button.html text="Github" icon="github" link="https://github.com/UlyssesXC" color="#B0C4DE" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} {% include button.html text="Resume 👨🏻‍💻" link="https://github.com/" color="#5F9EA0" %} {% include button.html text="Email" icon="email" link="xche683@uwo.ca" color="#00BFFF" %}
 
-## EDUCATION
-Western University
+### EDUCATION
+##### Western University
 > M.eng in Electrical and Computer Engineering
-Hangzhou City University (Formerly: Zhejiang University City College)
+
+##### Hangzhou City University (Formerly: Zhejiang University City College)
 > First（2018） and Third（2019） Prize in TI Cup National Undergraduate Electronic Design Contest
 > Achieved high marks in core technical courses, including Microcontrollers (96), C (89), C++ (90), Mobile Communications (91), and Circuit Principles (91)
 
-## EXPERIENCE
-### Weixun Nairui Intelligent Technology (Hangzhou) Co., Ltd.
+### EXPERIENCE
+#### Weixun Nairui Intelligent Technology (Hangzhou) Co., Ltd.
 Team leader / Full Stack Engineer, Technology Department Aug 2023 – Aug 2024
 
  Led a cross-functional team in developing an industrial inspection robot, achieving a manpower reduction
@@ -31,7 +34,7 @@ robotic arm motion control.
  Collaborated with a team to develop an image recognition algorithm for the robot by establishing dataset
 standards, collecting and organizing datasets, and implementing YOLO v8 for visual detection.
 
-### Nokia Shanghai Bell Co., Ltd.
+#### Nokia Shanghai Bell Co., Ltd.
 Embedded Software Engineer, NSB MN RAN R&D L1 Department Aug 2021 - Feb 2022
 
  Implemented and tested 5G/NR algorithms such as FFT and MIMO on ASIP prototypes. Focused on
@@ -44,7 +47,7 @@ memory access and data caching efficiency, and adapting low-level hardware inter
  Conducted 5G/NR RAN Layer 1 functionality testing, refinement, and development of product code logic
 within x86-based simulation environment.
 
-### Tuya Inc. (NYSE: TUYA)
+#### Tuya Inc. (NYSE: TUYA)
 Embedded Software Engineer Intern, Software Development Department Dec 2019 - Jul 2020
 
  Participated in the development of IoT-SDK for IoT products utilizing protocols like WIFI, Bluetooth,
