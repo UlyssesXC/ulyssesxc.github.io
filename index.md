@@ -17,6 +17,7 @@ I'm actively seeking opportunities for **research assistant positions** or **PhD
 
 ##### Hangzhou City University (Formerly: Zhejiang University City College)
 > First（2018） and Third（2019） Prize in TI Cup National Undergraduate Electronic Design Contest
+
 > Achieved high marks in core technical courses, including Microcontrollers (96), C (89), C++ (90), Mobile Communications (91), and Circuit Principles (91)
 
 ### EXPERIENCE
