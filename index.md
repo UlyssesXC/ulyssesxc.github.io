@@ -4,9 +4,9 @@
 
 I'm currently a Master of Engineering student in ECE at Western University.
 
-I have a strong interest in Embodied Ontelligence, particularly in its research foundations and real-world applications.
+I have a strong interest in Embodied Intelligence, particularly in its research foundations and real-world applications.
 
-I'm actively seeking opportunities for **research assistant positions** or **PhD programs** in this exciting field.
+**I'm actively seeking opportunities for research assistant positions or PhD programs in this exciting field.**
 
 
 {% include button.html text="Github" icon="github" link="https://github.com/UlyssesXC" color="#B0C4DE" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} {% include button.html text="Resume 👨🏻‍💻" link="https://github.com/" color="#5F9EA0" %} {% include button.html text="Email" icon="email" link="xche683@uwo.ca" color="#00BFFF" %}
