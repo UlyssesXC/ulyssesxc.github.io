@@ -12,23 +12,22 @@ I'm actively seeking opportunities for **research assistant positions** or **PhD
 ## EDUCATION
 Western University
 > M.eng in Electrical and Computer Engineering
-
 Hangzhou City University (Formerly: Zhejiang University City College)
-> Single Chip Microcomputer Principles & Applications (96)
-> C Programming (89) Mobile Tele-communication Technology (91) SKILLS
-> Electric Circuit Principles (91)
-> C++ Programming and Practice (90)
+> First（2018） and Third（2019） Prize in TI Cup National Undergraduate Electronic Design Contest
+> Achieved high marks in core technical courses, including Microcontrollers (96), C (89), C++ (90), Mobile Communications (91), and Circuit Principles (91)
 
-## PROFESSIONAL EXPERIENCE
+## EXPERIENCE
 ### Weixun Nairui Intelligent Technology (Hangzhou) Co., Ltd.
 Team leader / Full Stack Engineer, Technology Department Aug 2023 – Aug 2024
 
  Led a cross-functional team in developing an industrial inspection robot, achieving a manpower reduction
 of 60-80% in three TTI downstream factories within 2 months of product launch. Responsibilities included
 supply chain communication, system development.
+
  Independently led the majority of the robot's system development, including: PLC, power circuitry,
 optical imaging design, Linux PyQT interface & master control, database management, and Fanuc
 robotic arm motion control.
+
  Collaborated with a team to develop an image recognition algorithm for the robot by establishing dataset
 standards, collecting and organizing datasets, and implementing YOLO v8 for visual detection.
 
@@ -37,9 +36,11 @@ Embedded Software Engineer, NSB MN RAN R&D L1 Department Aug 2021 - Feb 2022
 
  Implemented and tested 5G/NR algorithms such as FFT and MIMO on ASIP prototypes. Focused on
 evaluating ASIP performance and performance enhancement of algorithm functionality.
+
  Participated in the migration and optimization of code logic from x86 to ARM architecture for 5G/NR
 RAN Layer 1. This includes leveraging NEON instruction sets for performance optimization, enhancing
 memory access and data caching efficiency, and adapting low-level hardware interfaces.
+
  Conducted 5G/NR RAN Layer 1 functionality testing, refinement, and development of product code logic
 within x86-based simulation environment.
 
@@ -48,20 +49,9 @@ Embedded Software Engineer Intern, Software Development Department Dec 2019 - Ju
 
  Participated in the development of IoT-SDK for IoT products utilizing protocols like WIFI, Bluetooth,
 and Zigbee. Main responsibilities included assisting in SDK development and deployment.
+
  Engaged in client projects using IoT chips, primarily focusing on various home appliances and industrial
 IoT applications. Organized more than 100 pages of engineering documents during this period.
-
-### First and Third Prize in TI Cup National Undergraduate Electronic Design Contest
-Group Leader / Embedded Developer Jul 2019
-
- Participated in the TI Cup College Student Electronic Design Competition in both 2018 and 2019, won
-the first prize with full marks in 2018, and won the third prize in 2019.
- First Prize in 2018: Led a team to design a current signal detection device within a three-day deadline for
-the competition, developed a detection circuit and 8-bit FFT algorithm on STC8 chip to accurately
-measure the fundamental frequency and harmonics of current signals
- Third Prize in 2019: Led a team to design a circuit load and fault detection device within a three-day
-deadline for the competition, based on digital bridge circuit principles for load type identification and
-component value measurement.
 
 ### As a Jekyll theme
 
