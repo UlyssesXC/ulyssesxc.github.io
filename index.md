@@ -1,7 +1,7 @@
 ---
-title: Hi, I’m Xiangchao(Chase) Chen
+title:  
 ---
-
+# Hi, I’m Xiangchao(Chase) Chen
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 2em;">
 
 <img class="intro-photo" src="/assets/images/profile.jpg" alt="Xiangchao Chen"
