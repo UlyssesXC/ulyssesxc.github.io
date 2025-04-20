@@ -1,12 +1,18 @@
 ---
- title: Hi, I’m Xiangchao(Chase) Chen
+title: Hi, I’m Xiangchao(Chase) Chen
 ---
 
-I'm currently a Master of Engineering student in ECE at Western University.
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-I have a strong interest in Embodied Intelligence, particularly in its research foundations and real-world applications.
+  <img src="/assets/images/profile.jpg" alt="Xiangchao Chen" style="width: 160px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 
-**I'm actively seeking opportunities for research assistant positions or PhD programs in this exciting field.**
+  <div>
+    <p>I'm currently a Master of Engineering student in ECE at Western University.</p>
+    <p>I have a strong interest in Embodied Intelligence, particularly in its research foundations and real-world applications.</p>
+    <p><strong>I'm actively seeking opportunities for research assistant positions or PhD programs in this exciting field.</strong></p>
+  </div>
+
+</div>
 
 
 {% include button.html text="Github" icon="github" link="https://github.com/UlyssesXC" color="#B0C4DE" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} {% include button.html text="Resume 👨🏻‍💻" link="https://github.com/" color="#5F9EA0" %} {% include button.html text="Email" icon="email" link="xche683@uwo.ca" color="#00BFFF" %}
