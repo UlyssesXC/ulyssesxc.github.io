@@ -4,7 +4,8 @@ title: Hi, I’m Xiangchao(Chase) Chen
 
 <div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 2em;">
 
-  <img class="intro-photo" src="/assets/images/profile.jpg" alt="Xiangchao Chen" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; box-shadow: none;"/>
+<img class="intro-photo" src="/assets/images/profile.jpg" alt="Xiangchao Chen"
+  style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; box-shadow: none !important; margin: 0;" />
 
   <div style="flex: 1; min-width: 250px;">
     <p style="margin: 0;">I'm currently a Master of Engineering student in ECE at Western University.</p>
