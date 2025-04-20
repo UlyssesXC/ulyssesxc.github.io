@@ -2,18 +2,17 @@
 title: Hi, I’m Xiangchao(Chase) Chen
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap; margin-bottom: 2em;">
 
-  <img src="/assets/images/profile.jpg" alt="Xiangchao Chen" style="width: 160px; border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 10px;"/>
+  <img class="intro-photo" src="/assets/images/profile.jpg" alt="Xiangchao Chen" style="width: 140px; height: 140px; border-radius: 50%; object-fit: cover; box-shadow: none;"/>
 
-  <div style="flex: 1; min-width: 200px;">
-    <p style="margin-top: 0;">I'm currently a Master of Engineering student in ECE at Western University.</p>
+  <div style="flex: 1; min-width: 250px;">
+    <p style="margin: 0;">I'm currently a Master of Engineering student in ECE at Western University.</p>
     <p>I have a strong interest in Embodied Intelligence, particularly in its research foundations and real-world applications.</p>
     <p><strong>I'm actively seeking opportunities for research assistant positions or PhD programs in this exciting field.</strong></p>
   </div>
 
 </div>
-
 
 
 {% include button.html text="Github" icon="github" link="https://github.com/UlyssesXC" color="#B0C4DE" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/" color="#0d94e7" %} {% include button.html text="Resume 👨🏻‍💻" link="https://github.com/" color="#5F9EA0" %} {% include button.html text="Email" icon="email" link="xche683@uwo.ca" color="#00BFFF" %}
